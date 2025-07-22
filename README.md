@@ -1,4 +1,4 @@
-# Verilog Daily Practice – 30 Days of HDL Learning
+# Verilog Daily Practice 
 
 Welcome. This repository documents my personal journey to master Verilog and SystemVerilog through consistent daily practice. Each day focuses on a small module or concept, implemented, simulated, and explained using testbenches.
 
